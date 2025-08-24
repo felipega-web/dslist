@@ -4,6 +4,11 @@ Este projeto realiza a busca de uma lista de jogos com base no seu gênero escol
 
 Foi desenvolvido com Java SE na versão 21, Spring Boot na versão 3.5.4, Maven na versão 3.1.0, além disso, o banco de dados utilizado foi o H2 e Postgresql, e também uso do docker para criação das imagens do Postgresql.
 
+<h2>Acessar página</h2>
+https://felipega.com.br/site-dslist/
+<img width="2560" height="945" alt="screencapture-felipega-br-site-dslist-2025-08-24-00_59_16" src="https://github.com/user-attachments/assets/884c0848-b4c8-4fa3-979b-36a72f9ee408" />
+<br><br>
+
 <h2>Modelagem UML</h2>
 <img width="1399" height="393" alt="image" src="https://github.com/user-attachments/assets/7f3a1b7c-e710-470b-8700-4bd978f6b552" />
 
